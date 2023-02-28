@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "The Best Mod Ever",
+		"description": "The Best Mod Ever! adds some Bedwars textures, a Chicken-Cow, Delta-Music, and many other things! Hope you like it!",
+		"uuid": "8388b433-d61f-2cb2-290d-64cc9e163a89",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Aahan"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.1.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "The Best Mod Ever",
+			"type": "resources",
+			"uuid": "64031428-3199-ca61-2abb-84c958fd5111",
+			"version": [1, 0, 0]
+		}
+	]
+}

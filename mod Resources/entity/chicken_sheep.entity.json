@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "bestmod:chicken_sheep",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/chicken_sheep"
+			},
+			"geometry": {
+				"default": "geometry.chicken_sheep"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "chicken_sheep_spawn_egg"
+			}
+		}
+	}
+}

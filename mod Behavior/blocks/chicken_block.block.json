@@ -1,0 +1,33 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bestmod:chicken_block",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.walls"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 45
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 120
+			},
+			"minecraft:flammable": {
+				"destroy_chance_modifier": 9,
+				"catch_chance_modifier": 2
+			},
+			"minecraft:geometry": "geometry.chicken_block",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "chicken_block",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:map_color": "#d5d5d5"
+		}
+	}
+}

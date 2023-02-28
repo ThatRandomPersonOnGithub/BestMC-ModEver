@@ -1,0 +1,5 @@
+entity.bestmod:chicken_sheep.name=Chicken Sheep
+item.spawn_egg.entity.bestmod:chicken_sheep.name=da spawn eg for da ChickenSheep
+tile.bestmod:chicken_block.name=Chicken Block
+entity.bestmod:poop.name=Poop
+item.spawn_egg.entity.bestmod:poop.name=Poop
